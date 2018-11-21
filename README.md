@@ -4,7 +4,7 @@
 # CSE2102-Project-drivesafely <h1> 
 
 ## Installation <h2>
-To have the webpage up and running, foloow these steps:
+To have the webpage up and running, follow these steps:
 1) copy the CSE2102-Application Prototype folder
 2) paste it in the www directory on your local drive 
 3) start your wamp server
